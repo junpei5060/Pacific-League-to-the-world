@@ -203,7 +203,7 @@ box-shadow: 0 2px 3px rgba(0, 0, 0, .1);
 }
 
 .check{
-font-size: 24px;
+    font-size: 24px;
 }
 }
 
