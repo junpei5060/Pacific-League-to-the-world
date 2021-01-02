@@ -3,7 +3,7 @@
     <body>
       <header>
             <h1>
-                <a href="/">Find the Pacific League favourites</a><br>
+                
             </h1>
             <nav class="pc-nav">
                 <ul>
